@@ -3,6 +3,6 @@
 - 🌱 I’m have worked in langauages like JAVA, C/C++ ,Python (cplex, pulp)
 - 💞️ I’m looking to collaborate on back end projects 
 - 📫 You can reach me out on Linked'IN - https://www.linkedin.com/in/valeenaafzal/
-- 🌱 Link to my Fiverr Profile - 
+- 🌱  - 
 
 
