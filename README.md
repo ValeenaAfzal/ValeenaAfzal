@@ -1,3 +1,4 @@
+#About
 - 👋 Hi, I’m @ValeenaAfzal Software Engineering Student at FAST- NUCES Lahore Pakistan
 - 👀 I’m interested in Web development and cyber security
 - 🌱 I have worked in languages like JAVA, C/C++, Python (cplex, pulp), React, JavaScipt, HTML5, CSS3
@@ -7,6 +8,7 @@
 - 📫 You can reach me on LinkedIn - https://www.linkedin.com/in/valeenaafzal/
 - 🌱 Get to Know More About me at - http://valeenaafzal.com/
 
+#Socials
 Links to my social media are Given Below:
 - LinkedIn  :  https://www.linkedin.com/in/valeenaafzal/
 - Instagram :  https://www.instagram.com/valeenaafzal/
@@ -14,6 +16,7 @@ Links to my social media are Given Below:
 - Facebook  :  https://www.facebook.com/valeenaafzal
 - Email     :  valeenaafzal@gmail.com
 
+#Freelancing Profiles
 Links to My Freelancing Profiles:
 - Fiverr : https://www.fiverr.com/alhijaztech
 - UpWork : https://www.upwork.com/freelancers/~01a278f0b95f8203cd
