@@ -8,14 +8,14 @@
 - 🌱 Get to Know More About me at - http://valeenaafzal.com/
 
 Links to my social media are Given Below:
-1- LinkedIn  :  https://www.linkedin.com/in/valeenaafzal/
-2- Instagram :  https://www.instagram.com/valeenaafzal/
-3- Twitter   :  https://twitter.com/valeenaafzal
-4- Facebook  :  https://www.facebook.com/valeenaafzal
-5- Email     :  valeenaafzal@gmail.com
+- LinkedIn  :  https://www.linkedin.com/in/valeenaafzal/
+- Instagram :  https://www.instagram.com/valeenaafzal/
+- Twitter   :  https://twitter.com/valeenaafzal
+- Facebook  :  https://www.facebook.com/valeenaafzal
+- Email     :  valeenaafzal@gmail.com
 
 Links to My Freelancing Profiles:
-1- Fiverr : https://www.fiverr.com/alhijaztech
-2- UpWork : https://www.upwork.com/freelancers/~01a278f0b95f8203cd
+- Fiverr : https://www.fiverr.com/alhijaztech
+- UpWork : https://www.upwork.com/freelancers/~01a278f0b95f8203cd
 
 
