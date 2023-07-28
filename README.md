@@ -1,25 +1,59 @@
-<h1 align="center">Hi there, I'm Valeena Afzal</h1>
 
-<p align="center">A Software Engineering Student at FAST-NUCES Lahore, Pakistan. A passionate Web developer with a profound interest in Cyber Security and Artificial Intelligence. 🌱 I have experience working with languages like Java, C/C++, Python (cplex, pulp), React, JavaScript, HTML5, CSS3. 🍀 I enjoy working with React and developing interactive Frontends. I also have experience with MERN stack and WordPress. 💞️ I’m looking to collaborate on Web projects.</p>
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=valeenaafzal&label=Profile%20views&color=0e75b6&style=flat" alt="valeenaafzal" /> 
 </p>
+ <h1 align="center">Hi there, I'm Valeena Afzal</h1>
+    <p align="center">
+        A Software Engineering Student at FAST-NUCES Lahore, Pakistan. A passionate Web developer with a
+        profound interest in Cyber Security and Artificial Intelligence.
+    </p>
+    <ul>
+        <li>
+            🌱 I have experience working with languages like Java, C/C++, Python (cplex, pulp), React, JavaScript,
+            HTML5, CSS3.
+        </li>
+        <li>
+            🍀 I enjoy working with React and developing interactive Frontends. I also have experience with MERN stack
+            and WordPress.
+        </li>
+        <li>
+            💞️ I’m looking to collaborate on Web projects.
+        </li>
+    </ul>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=valeenaafzal" alt="valeenaafzal" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/valeenaafzal" target="blank">
-    <img src="https://img.shields.io/twitter/follow/valeenaafzal?logo=twitter&style=for-the-badge" alt="valeenaafzal" />
-  </a>
-</p>
-
-<h2 align="center">Connect with me</h2>
-<p align="center">
+<h2>More About Me</h2>
+<ul>
+        <li>
+            🔭 I’m currently working on [NKonnect] 
+            <a href="https://github.com/ValeenaAfzal/NKonnect" target="_blank">
+              🔗 
+            </a>
+        </li>
+        <li>
+            🌱 I’m currently learning **Python, AI and Machine Learning**
+        </li>
+        <li>
+            👨‍💻 Get to know more about me
+            <a href="http://valeenaafzal.com/" target="_blank">
+               🌐
+            </a>
+        </li>
+        <li>
+            💬 Ask me about **html, css, react**
+        </li>
+        <li>
+            📫 How to reach me **valeenaafzal@gmail.com✉️ 
+        </li>
+        <li>
+            📄 Know about my experiences 
+            <a href="https://github.com/ValeenaAfzal/ValeenaAfzal/blob/main/Valeena_Afzal_SE_Resume.pdf"
+                target="_blank">
+              🔗 
+            </a>
+        </li>
+    </ul>
+    <p align="right">
   <a href="https://codepen.io/valeena-afzal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="valeena-afzal" height="30" width="40" />
   </a>
@@ -40,7 +74,22 @@
   </a>
 </p>
 
-<h2 align="center">Languages and Tools</h2>
+<h2>My Freelancing Profiles</h2>
+<div align="center" >
+  <a href="https://www.fiverr.com/alhijaztech" target="_blank">
+    <img src="https://1000logos.net/wp-content/uploads/2021/11/Fiverr-Logo.png" alt="valeena-afzal" height="50" width="70" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01a278f0b95f8203cd" target="_blank">
+    <img src="https://image.status.io/z6aeO6kAGsAG.png" alt="valeena-afzal" height="50" width="90" />
+  </a>
+</div>
+ 
+ 
+
+
+
+
+<h2>Languages and Tools</h2>
 <p align="center" >
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -57,6 +106,16 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
+
+<h2>Statistics</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=valeenaafzal" alt="valeenaafzal" />
+  </a>
+</p>
+
+
+
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valeenaafzal&show_icons=true&locale=en&layout=compact" alt="valeenaafzal" />
