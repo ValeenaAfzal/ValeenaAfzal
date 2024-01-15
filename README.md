@@ -5,16 +5,16 @@
 </p>
  <h1 align="center">Hi there, I'm Valeena Afzal</h1>
     <p align="center">
-        A Software Engineering Student at FAST-NUCES Lahore, Pakistan. A passionate Web developer with a
-        profound interest in Cyber Security and Artificial Intelligence.
+        A Software Engineering Student at FAST-NUCES Lahore, Pakistan. A Web developer with a
+        profound interest in Cyber Security.
     </p>
     <ul>
         <li>
-            🌱 I have experience working with languages like Java, C/C++, Python (cplex, pulp), React, JavaScript,
+            🌱 I have basic experience working with languages like Java, C/C++, Python, React, JavaScript,
             HTML5, CSS3.
         </li>
         <li>
-            🍀 I enjoy working with React and developing interactive Frontends. I also have experience with MERN stack
+            🍀 I enjoy working on bussiness side logics. I have a little experience with MERN stack
             and WordPress.
         </li>
         <li>
@@ -26,12 +26,12 @@
 <ul>
         <li>
             🔭 I’m currently working on [NKonnect] 
-            <a href="https://github.com/ValeenaAfzal/NKonnect" target="_blank">
+            <a href="https://github.com/ValeenaAfzal/Final-Year-Project" target="_blank">
               🔗 
             </a>
         </li>
         <li>
-            🌱 I’m currently learning **Python, AI and Machine Learning**
+            🌱 I’m currently learning **Python, MERN**
         </li>
         <li>
             👨‍💻 Get to know more about me
@@ -40,14 +40,11 @@
             </a>
         </li>
         <li>
-            💬 Ask me about **html, css, react**
-        </li>
-        <li>
             📫 How to reach me **valeenaafzal@gmail.com✉️ 
         </li>
         <li>
             📄 Know about my experiences 
-            <a href="https://github.com/ValeenaAfzal/ValeenaAfzal/blob/main/Valeena_Afzal_SE_Resume.pdf"
+            <a href=""
                 target="_blank">
               🔗 
             </a>
@@ -76,10 +73,10 @@
 
 <h2>My Freelancing Profiles</h2>
 <div align="center" >
-  <a href="https://www.fiverr.com/alhijaztech" target="_blank">
+  <a href="" target="_blank">
     <img src="https://1000logos.net/wp-content/uploads/2021/11/Fiverr-Logo.png" alt="valeena-afzal" height="50" width="70" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01a278f0b95f8203cd" target="_blank">
+  <a href="" target="_blank">
     <img src="https://image.status.io/z6aeO6kAGsAG.png" alt="valeena-afzal" height="50" width="90" />
   </a>
 </div>
