@@ -106,7 +106,7 @@
 
 <h2>Statistics</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ValeenaAfzal/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ValeenaAfzal&no-bg=true" alt="valeenaafzal" />
   </a>
 </p>
@@ -115,10 +115,10 @@
 
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valeenaafzal&show_icons=true&locale=en&layout=compact" alt="valeenaafzal" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=valeenaafzal&show_icons=true&locale=en" alt="valeenaafzal" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValeenaAfzal&show_icons=true&locale=en&layout=compact" alt="valeenaafzal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ValeenaAfzal&show_icons=true&locale=en" alt="valeenaafzal" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valeenaafzal&" alt="valeenaafzal" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ValeenaAfzal&" alt="valeenaafzal" />
 </p>
