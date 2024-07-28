@@ -5,17 +5,17 @@
 </p>
  <h1 align="center">Hi there, I'm Valeena Afzal</h1>
     <p align="center">
-        A Software Engineering Student at FAST-NUCES Lahore, Pakistan. A Web developer with a
-        profound interest in Cyber Security.
+        An Associate Software Engineer Student at  
+            <a href="https://www.redmath.com/" target="_blank">
+               RedMath
+            </a> Lahore, Pakistan. I'm a Backend developer with profound interest in Cyber Security.
     </p>
     <ul>
         <li>
-            🌱 I have basic experience working with languages like Java, C/C++, Python, React, JavaScript,
-            HTML5, CSS3.
+            🌱 I have basic experience working with languages like Java, C/C++, Python, React, JavaScript, HTML5, CSS3.
         </li>
         <li>
-            🍀 I enjoy working on bussiness side logics. I have a little experience with MERN stack
-            and WordPress.
+            🍀 I enjoy working on bussiness side logics. I have a little experience with MERN stackand WordPress.
         </li>
         <li>
             💞️ I’m looking to collaborate on Web projects.
@@ -25,37 +25,21 @@
 <h2>More About Me</h2>
 <ul>
         <li>
-            🔭 I’m currently working on [NKonnect] 
-            <a href="https://github.com/ValeenaAfzal/Final-Year-Project" target="_blank">
-              🔗 
-            </a>
-        </li>
-        <li>
-            🌱 I’m currently learning **Python, MERN**
+            🌱 I’m currently learning **Python, Java Spring Boot**
         </li>
         <li>
             👨‍💻 Get to know more about me
-            <a href="http://valeenaafzal.com/" target="_blank">
+            <a href="https://www.linkedin.com/in/valeenaafzal/" target="_blank">
                🌐
             </a>
         </li>
         <li>
             📫 How to reach me **valeenaafzal@gmail.com✉️ 
         </li>
-        <li>
-            📄 Know about my experiences 
-            <a href=""
-                target="_blank">
-              🔗 
-            </a>
-        </li>
     </ul>
     <p align="right">
   <a href="https://codepen.io/valeena-afzal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="valeena-afzal" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/valeenaafzal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="valeenaafzal" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/valeenaafzal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeenaafzal" height="30" width="40" />
@@ -80,11 +64,6 @@
     <img src="https://image.status.io/z6aeO6kAGsAG.png" alt="valeena-afzal" height="50" width="90" />
   </a>
 </div>
- 
- 
-
-
-
 
 <h2>Languages and Tools</h2>
 <p align="center" >
