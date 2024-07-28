@@ -8,7 +8,12 @@
         An Associate Software Engineer at  
             <a href="https://www.redmath.com/" target="_blank">
                RedMath
-            </a> Lahore, Pakistan. I'm a Backend developer with profound interest in Cyber Security.
+            </a> 
+            & 
+            <a href="https://solvout.com/" target="_blank">
+               Solvout
+            </a>
+      Lahore, Pakistan. I'm a Backend developer with profound interest in Cyber Security.
     </p>
     <ul>
         <li>
