@@ -5,7 +5,7 @@
 </p>
  <h1 align="center">Hi there, I'm Valeena Afzal</h1>
     <p align="center">
-        An Associate Software Engineer Student at  
+        An Associate Software Engineer at  
             <a href="https://www.redmath.com/" target="_blank">
                RedMath
             </a> Lahore, Pakistan. I'm a Backend developer with profound interest in Cyber Security.
