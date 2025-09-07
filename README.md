@@ -5,19 +5,23 @@
 </p>
  <h1 align="center">Hi there, I'm Valeena Afzal</h1>
     <p align="center">
-        An Associate Software Engineer at  
+        Software Engineer at  
             <a href="https://www.redmath.com/" target="_blank">
                RedMath
             </a> 
-            & 
-            <a href="https://solvout.com/" target="_blank">
-               Solvout
+            MS Student and Teaching Assistant at 
+            <a href="https://isb.nu.edu.pk/" target="_blank">
+               NUCES ISLAMABAD
             </a>
-      Lahore, Pakistan. I'm a Backend developer with profound interest in Cyber Security.
+            & Guest Researcher at 
+            <a href="https://www.tue.nl/en/" target="_blank">
+               TU/e Netherlands
+            </a>
+      Lahore, Pakistan. I'm a Backend developer with profound interest in intersection of Data Science and Cyber Security.
     </p>
     <ul>
         <li>
-            🌱 I have basic experience working with languages like Java, C/C++, Python, React, JavaScript, HTML5, CSS3.
+            🌱 I have experience working with languages like Java, Python and frameworks like Django, SprinBoot.
         </li>
         <li>
             🍀 I enjoy working on bussiness side logics. I have a little experience with MERN stackand WordPress.
@@ -29,9 +33,6 @@
 
 <h2>More About Me</h2>
 <ul>
-        <li>
-            🌱 I’m currently learning **Python, Java Spring Boot**
-        </li>
         <li>
             👨‍💻 Get to know more about me
             <a href="https://www.linkedin.com/in/valeenaafzal/" target="_blank">
