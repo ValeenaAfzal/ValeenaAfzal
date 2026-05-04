@@ -17,17 +17,14 @@
             <a href="https://www.tue.nl/en/" target="_blank">
                TU/e Netherlands
             </a>
-      Lahore, Pakistan. I'm a Backend developer with profound interest in intersection of Data Science and Cyber Security.
+      Lahore, Pakistan. I'm a Backend developer with interest in intersection of Data Science, Software Engineering and Security.
     </p>
     <ul>
         <li>
-            🌱 I have experience working with languages like Java, Python and frameworks like Django, SprinBoot.
+            🌱 I have experience working with languages like Java, Python and frameworks like Django, SpringBoot.
         </li>
         <li>
-            🍀 I enjoy working on bussiness side logics. I have a little experience with MERN stackand WordPress.
-        </li>
-        <li>
-            💞️ I’m looking to collaborate on Web projects.
+            🍀 I enjoy working on bussiness side logics with a little experience with MERN stack and WordPress.
         </li>
     </ul>
 
@@ -52,24 +49,8 @@
   </a>
   <a href="https://stackoverflow.com/users/15392487" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15392487" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/valeenaafzal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="valeenaafzal" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/valeenaafzal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valeenaafzal" height="30" width="40" />
-  </a>
+  </a>  
 </p>
-
-<h2>My Freelancing Profiles</h2>
-<div align="center" >
-  <a href="" target="_blank">
-    <img src="https://1000logos.net/wp-content/uploads/2021/11/Fiverr-Logo.png" alt="valeena-afzal" height="50" width="70" />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://image.status.io/z6aeO6kAGsAG.png" alt="valeena-afzal" height="50" width="90" />
-  </a>
-</div>
 
 <h2>Languages and Tools</h2>
 <p align="center" >
