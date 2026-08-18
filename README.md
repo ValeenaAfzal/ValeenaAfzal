@@ -17,22 +17,19 @@
             <a href="https://www.tue.nl/en/" target="_blank">
                TU/e Netherlands
             </a>
-      Lahore, Pakistan. I'm a Backend developer with interest in intersection of Data Science, Software Engineering and Security.
+     I'm a Backend Engineer with interest in intersection of Data Science, Software Engineering and Security.
     </p>
     <p align="center">
-  Software Engineer and MS Data Science student with interests in Trustworthy AI, Machine Learning Security, Large Language Models, and AI for Software Engineering.
-
-  Currently working on uncertainty-aware Trojan detection using machine learning, explainability, calibration analysis, deep ensembles, and out-of-distribution detection techniques for cybersecurity applications. My work focuses on evaluating context-aware multi-agent LLM systems for automated code revision in software engineering, with emphasis on intelligent code improvement, reasoning workflows, software quality, and AI-assisted development processes.
+  Currently pursuing MS Data Science with AI in Climate-Health Based focused Research.
 
   Alongside research, I have industry experience developing scalable backend systems and microservices-based applications across fintech and healthcare domains using Java Spring Boot and Python. My work includes REST APIs, distributed systems, event-driven architectures, secure authentication workflows, and backend performance optimization.
 
   I am particularly interested in opportunities involving:
-  • Trustworthy AI
+  • Trustworthy AI and XAI
   • AI for Software Engineering
+  • AI for Climate-Health Systems
   • Multi-Agent LLM Systems
   • Machine Learning Security
-  • Cybersecurity & Intelligent Systems
-  • Explainable AI (XAI)
   • Intelligent Developer Tools
   
   Open to:
